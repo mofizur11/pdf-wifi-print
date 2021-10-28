@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PDF_Print.iml" filepath="$PROJECT_DIR$/.idea/modules/PDF_Print.iml" group="PDF_Print" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="PDF Print/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PDF_Print.iml" filepath="$PROJECT_DIR$/.idea/modules/PDF_Print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PDF_Print.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PDF_Print.app.iml" />
     </modules>
   </component>
 </project>
